@@ -1,0 +1,1 @@
+Hello,worlder! Golang is a beautiful language. I like it! er.er. er

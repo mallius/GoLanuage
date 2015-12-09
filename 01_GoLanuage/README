@@ -1,0 +1,1 @@
+go run example.go 或者 go build example.go编译后执行bin文件
